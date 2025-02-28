@@ -1,4 +1,4 @@
-AI Chat Application 🤖💬
+                AI Chat Application 🤖💬
 An interactive AI-powered chat application built with React (Frontend) and Spring Boot (Backend), powered by Ollama AI for intelligent responses.
 
 📌 Features
