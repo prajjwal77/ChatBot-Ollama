@@ -26,10 +26,6 @@ Java 17+ installed
 Maven installed
 Ollama AI Server running
 
-Clone the Repository
-git clone https://github.com/yourusername/ai-chat-app.git
-cd ai-chat-app
-
 ⚡ Running the Frontend
 
 Navigate to the frontend folder:
